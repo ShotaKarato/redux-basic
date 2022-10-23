@@ -5,4 +5,4 @@ This repo is based on this excellent lecture of Redux.
 
 During the lecture, Stephen explains the concept of Redux with an insurance company analogy.
 
-The code here added a few more touches on what he covers during the lecture. I did so by re-implement it with TypeScript and prepared a simple test for action creators and reducers.
+The code here added a few more touches to what he covers during the lecture. I did so by re-implementing it with TypeScript and prepared a simple test for action creators and reducers.
